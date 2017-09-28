@@ -1,7 +1,7 @@
 # About Me
 ### HELIO TRAINING - HOMEWORK
 
-![alt tag](http://domain.com/path/to/img.png "About Me page Creen-Shoot")
+![Scree-Shot](https://github.com/Edxael/Hlio-About-Me/blob/master/IMG/01-about-me.png "About Me page Creen-Shoot")
 
 -----------------------------------------------------------
 
