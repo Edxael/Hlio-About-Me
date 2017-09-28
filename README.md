@@ -13,7 +13,7 @@ For this activity, I will give you a simple user profile image. I want you to fo
 
 ### To earn full points you must:
 
-1. Give 5 reasons why you chose Helio
+1. Give 3 reasons why you chose Helio
 2. Replace with top 4 technologies you are excited to learn about
 3. Abide by the grid layout, imagine a line at the left and right most edges of the layout.
 4. Make your profile fit to-the-pixel, the layout below.
